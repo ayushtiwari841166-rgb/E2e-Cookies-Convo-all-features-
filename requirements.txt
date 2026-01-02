@@ -1,7 +1,7 @@
-streamlit
-requests
-beautifulsoup4
-lxml
-gtts
-numpy
-pandas
+streamlit==1.29.0
+requests==2.31.0
+gtts==2.5.1
+numpy==1.26.4
+pandas==2.1.4
+beautifulsoup4==4.12.3
+lxml==5.1.0
