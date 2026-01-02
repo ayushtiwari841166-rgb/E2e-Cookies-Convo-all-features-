@@ -1,0 +1,8 @@
+streamlit
+selenium
+requests
+gtts
+pydub
+flask
+schedule
+watchdog
