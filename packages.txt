@@ -1,2 +1,4 @@
 chromium
 ffmpeg
+libxml2
+libxslt1-dev
