@@ -4,3 +4,5 @@ gtts==2.5.1
 numpy==1.26.4
 pandas==2.1.4
 beautifulsoup4==4.12.3
+selenium==4.17.2
+webdriver-manager==4.0.1
